@@ -1,0 +1,15 @@
+.cache
+coverage
+node_modules
+lib
+dist
+
+.build.sh
+.travis_build
+.bin
+
+*.sw*
+tags*
+.ctagsignore
+.npmignore
+.nyc*
